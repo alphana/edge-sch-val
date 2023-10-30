@@ -1,0 +1,23 @@
+{
+  "app": {
+    "name": "iamauthorization"
+  },
+  "env": {
+    "profile": "local"
+  },
+  "build": {
+    "time": "N/A",
+    "version": "N/A",
+    "revision": "N/A"
+  },
+  "framework": {
+    "time": "2023-09-28_13:26:13",
+    "version": "5.1.0",
+    "revision": "d1b30e7a4f9c2d89839e28b5bf12b4bc4cc669ee"
+  },
+  "api-spec": {
+    "product-type": "springdoc",
+    "type": "openapi",
+    "version": "v3"
+  }
+}

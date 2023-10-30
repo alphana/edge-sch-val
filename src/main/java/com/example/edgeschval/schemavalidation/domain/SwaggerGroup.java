@@ -1,19 +1,18 @@
 package com.example.edgeschval.schemavalidation.domain;
 
+import lombok.Data;
 import lombok.Getter;
 import lombok.NoArgsConstructor;
 import lombok.Setter;
 
 import java.io.Serializable;
+import java.util.List;
 
-@Getter
-@Setter
-@NoArgsConstructor
+@Data
 public class SwaggerGroup implements Serializable {
-    private static final long serialVersionUID = 1L;
 
-    String location;
-    String name;
-    String swaggerVersion;
-    String url;
+    String configUrl;
+    String oauth2RedirectUrl;
+    List<Url> urls;
+    String validatorUrl;
 }

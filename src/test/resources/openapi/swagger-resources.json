@@ -1,0 +1,67 @@
+{
+  "configUrl": "/v3/api-docs/swagger-config",
+  "oauth2RedirectUrl": "http://localhost:8090/swagger-ui/oauth2-redirect.html",
+  "urls": [
+    {
+      "url": "/v3/api-docs/iamauthorization-batches-api",
+      "name": "iamauthorization-batches-api"
+    },
+    {
+      "url": "/v3/api-docs/iamauthorization-clients-api",
+      "name": "iamauthorization-clients-api"
+    },
+    {
+      "url": "/v3/api-docs/iamauthorization-domainType-api",
+      "name": "iamauthorization-domainType-api"
+    },
+    {
+      "url": "/v3/api-docs/iamauthorization-domains-api",
+      "name": "iamauthorization-domains-api"
+    },
+    {
+      "url": "/v3/api-docs/iamauthorization-menuResources-api",
+      "name": "iamauthorization-menuResources-api"
+    },
+    {
+      "url": "/v3/api-docs/iamauthorization-passwordSettings-api",
+      "name": "iamauthorization-passwordSettings-api"
+    },
+    {
+      "url": "/v3/api-docs/iamauthorization-profile-api",
+      "name": "iamauthorization-profile-api"
+    },
+    {
+      "url": "/v3/api-docs/iamauthorization-realmSettings-api",
+      "name": "iamauthorization-realmSettings-api"
+    },
+    {
+      "url": "/v3/api-docs/iamauthorization-resources-api",
+      "name": "iamauthorization-resources-api"
+    },
+    {
+      "url": "/v3/api-docs/iamauthorization-roleTransfer-api",
+      "name": "iamauthorization-roleTransfer-api"
+    },
+    {
+      "url": "/v3/api-docs/iamauthorization-roles-api",
+      "name": "iamauthorization-roles-api"
+    },
+    {
+      "url": "/v3/api-docs/iamauthorization-selfResources-api",
+      "name": "iamauthorization-selfResources-api"
+    },
+    {
+      "url": "/v3/api-docs/iamauthorization-serviceAccounts-api",
+      "name": "iamauthorization-serviceAccounts-api"
+    },
+    {
+      "url": "/v3/api-docs/iamauthorization-transactionRecord-api",
+      "name": "iamauthorization-transactionRecord-api"
+    },
+    {
+      "url": "/v3/api-docs/iamauthorization-users-api",
+      "name": "iamauthorization-users-api"
+    }
+  ],
+  "validatorUrl": ""
+}
